@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">checkedtextview-26.01.2022</string>
+    <string name="msg_shown">mąka jest </string>
+    <string name="msg_shown2">cukier jest </string>
+    <string name="checked">zaznaczona(y)</string>
+    <string name="unchecked">odznaczona(y)</string>
+    <string name="checkedTextView">CheckedTextView</string>
 </resources>
